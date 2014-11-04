@@ -1,0 +1,76 @@
+body{
+  background: url('../img/stripe.png');
+}
+header{
+  padding: 10px 0;
+  text-align: center; 
+}
+figure{
+  margin: 0;
+}
+.content{
+  margin: 0 auto;
+  width: 960px;
+}
+.content .form-text{
+  display: inline-block;
+  height: 35px;
+  width: 878px;
+}
+.task{
+  background: rgb(148, 148, 148);
+  border-radius: 3px;
+  box-shadow: 0px 0px 8px rgb(131, 131, 131);
+  margin: 10px 0;
+  padding: 10px 8px;
+}
+.task span{
+  color: #fff;
+}
+.task input{
+  float: right;
+}
+.buttons{
+  background: rgb(0, 139, 189);
+  border-bottom: 4px solid rgb(0, 114, 155);
+  color:#fff;
+  cursor: pointer;
+  border-radius: 5px;
+  display: inline-block;
+  font-size: 14px;
+  margin: 0;
+  padding: 7px;
+}
+.but_add{
+  padding: 10px 7px;
+}
+.buttons:hover{
+  background: rgb(25, 122, 157);
+  border-bottom: 4px solid rgb(1, 85, 115);
+}
+.sub_content{  
+  background: #fff;
+  border-radius: 9px;
+  display: inline-block;
+  margin-top: 25px;
+  vertical-align: top;
+  padding: 47px 13px 13px 13px; 
+  position: relative;
+  width: 430px;
+}
+.news{
+  margin-right: 43px;
+}
+.sub_content h3{
+  background: rgb(197, 197, 197);
+  border-radius: 9px 9px 0 0 ;
+  color: #888;
+  font-weight: normal;
+  left: 0;
+  margin: 0;
+  padding: 8px 0;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 100%;
+}
