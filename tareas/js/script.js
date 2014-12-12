@@ -7,7 +7,7 @@ $(document).ready(function(){
     }
     $(".form-text").val('');
   });
-  //Eliminar tareas
+  //Eliminar tareasss
   function delete_task(button, selectinp){
     $(button).click(function(){
       $(selectinp).each(function(ind, oj){
