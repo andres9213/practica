@@ -1,1 +1,1 @@
-alert('Cuidado! Piso Mojado!!')
+alert('Cuidado! Piso Mojado!!');
